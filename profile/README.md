@@ -1,3 +1,3 @@
 ## Hi there 👋
 
-Welcome to svetoch.dev where we make devops easy
+Welcome to svetoch.dev — where DevOps just works.
